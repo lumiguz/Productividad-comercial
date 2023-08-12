@@ -3,13 +3,17 @@
 # Análisis Exploratorio de Datos
 
 
-Este proyecto tiene como objetivo hacer un analisis EDA del [Dataset](./Dataset/data_prueba_cpa_v1%20-%20copia.xlsx) y asi poder extraer algunos insights para la toma de decisiones tanto del area Comercial como el area de Mercadeo
+Este proyecto tiene como objetivo hacer un analisis EDA del [🔗 Dataset](./Dataset/data_prueba_cpa_v1%20-%20copia.xlsx) y asi poder extraer algunos insights para la toma de decisiones tanto del area Comercial como el area de Mercadeo
 
 
 ## Dataset
 
 El dataset abarca el periodo del año 2021 de una empresa SaaS donde se observan las ventas por asesor
 
+
+## Dashboard
+
+Puedes descargar el archivo del [📊 Dashboar](./Dashboard/Analisis%20de%20productividad%20comercial.pbix) y visualizarlos en `Power BI`
 
 ## Variables de la tabla
 
