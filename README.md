@@ -1,4 +1,4 @@
-<img src='https://res.cloudinary.com/dzc8agefr/image/upload/v1691860198/5_ajw7vx.png' alt='Dashboard'>
+<img src='https://res.cloudinary.com/dzc8agefr/image/upload/v1691934754/5_ebcdt8.png' alt='Dashboard'>
 
 # Análisis Exploratorio de Datos
 
