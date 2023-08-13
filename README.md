@@ -13,7 +13,7 @@ El dataset abarca el periodo del año 2021 de una empresa SaaS donde se observan
 
 ## Dashboard
 
-Puedes descargar el archivo del [📊 Dashboar](./Dashboard/Analisis%20de%20productividad%20comercial.pbix) y visualizarlos en `Power BI`
+Puedes descargar el archivo del [📊 Dashboard](./Dashboard/Analisis%20de%20productividad%20comercial.pbix) y visualizarlo en `Power BI`
 
 ## Variables de la tabla
 
